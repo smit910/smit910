@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @smit910
 - 👀 I’m interested in ... iOS development
-- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... haripatel91054@gmail.com
 
